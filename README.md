@@ -40,7 +40,7 @@ This task involves analyzing player statistics including runs scored and wickets
   - Top 5 players by wicket taken:
     - Sort the players by wickets taken in descending order and take the top 5.
   - Ranking players with overall performance:
-    - Calculate an overall performance score for each player based on runs scored and wickets taken.
+    - Calculate an overall performance score for each player based on runs scored and wickets taken. (by given hint in question)
     - Sort the players by this performance score in descending order to determine the ranking.
 
 ### Sample Output
